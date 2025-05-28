@@ -6,9 +6,6 @@ I am a third-year computer science student at the University of Calgary
 #### Check out my GitLab: https://csgit.ucalgary.ca/fiona.truong
 #### See what we are up to at Code the Change YYC: https://www.codethechangeyyc.ca/
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fionaa-truong&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/truong-fiona) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fionatruong119@gmail.com) 
 
