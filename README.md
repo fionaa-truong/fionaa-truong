@@ -3,7 +3,6 @@
 I am a third-year computer science student at the University of Calgary
 
 #### Visit my portfolio: https://fiona-truong.vercel.app/
-#### Check out my GitLab: https://csgit.ucalgary.ca/fiona.truong
 #### See what we are up to at Code the Change YYC: https://www.codethechangeyyc.ca/
 
 ## 🌐 Socials:
