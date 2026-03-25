@@ -8,17 +8,6 @@ I am a third-year computer science student at the University of Calgary. I have 
 ## 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/truong-fiona) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fionatruong119@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fionaa.truong)
-
-## ✨ About Me
-- Exploring data science 📊, web development 🖥️, and cybersecurity 🔐
-- I love being able to leverage my creativity to build tools from scratch, implementing any features I imagine
-
-## 🙈 Fun Facts
-- Avid Formula 1 fan 🏎️
-- Love the outdoors: camping ⛺️, traveling ✈️, or late night city drives 🚙
-- Food connoisseur 🍽️, always discovering new spots to try
-- Passionate about music - top 0.1% listener on Spotify, always discovering new songs and curating playlists for any vibe
 
 ## 💻 Tech Stack:
 ### Languages:
